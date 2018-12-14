@@ -1,0 +1,4 @@
+LinkedHashMap is a combination of Hash table and linked list implementation of the Map interface, with predictable iteration order.
+It maintains a doubly-linked list running through all of its entries.
+The iteration order is normally the order in which keys were inserted into the map ie insertion order.
+The insertion order is not affected if a key is re-inserted into the map.
